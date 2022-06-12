@@ -6,7 +6,7 @@ import { check, PERMISSIONS, PermissionStatus, request, openSettings } from "rea
 //1. interfaz que va a tener el estado de los permisos
 export interface PermissionsState {
     locationStatus: PermissionStatus;
-}
+} 
 
 //2. este es mi initial state
 export const permissionInitialState: PermissionsState = {
