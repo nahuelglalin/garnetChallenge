@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml",
+            "outputFile": "/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml",
             "map": [
                 {
                     "source": "/Users/nahuelgonzalolalin/.gradle/caches/transforms-3/988256e85b21d0de19e4b7cf8d32c7b5/transformed/jetified-play-services-base-18.0.1/res/values-ro/values.xml",

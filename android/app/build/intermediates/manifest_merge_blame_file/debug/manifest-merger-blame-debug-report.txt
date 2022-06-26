@@ -9,20 +9,20 @@
 9        android:targetSdkVersion="31" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml:5:5-77
-11-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml:5:22-75
+11-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:4:5-67
-12-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:4:22-64
+12-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:4:22-64
 13    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
-13-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:5:5-85
-13-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:5:22-82
+13-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:5:5-85
+13-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:5:22-82
 14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-14-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:6:5-81
-14-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:6:22-78
+14-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:6:5-81
+14-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:6:22-78
 15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-15-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:7:5-79
-15-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:7:22-76
+15-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:7:5-79
+15-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:7:22-76
 16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 16-->[com.facebook.flipper:flipper:0.125.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/b2ec3232205e095c09543a31d56ae642/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
 16-->[com.facebook.flipper:flipper:0.125.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/b2ec3232205e095c09543a31d56ae642/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
@@ -56,61 +56,61 @@
 30    </queries>
 31
 32    <application
-32-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:9:5-33:19
+32-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:9:5-33:19
 33        android:name="com.rutasapp.MainApplication"
-33-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:10:7-38
+33-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:10:7-38
 34        android:allowBackup="false"
-34-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:14:7-34
+34-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:14:7-34
 35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 35-->[androidx.core:core:1.6.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/5c61d7afbc1bcd99cb491da6ba2ee6c1/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 36        android:debuggable="true"
 37        android:icon="@mipmap/ic_launcher"
-37-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:12:7-41
+37-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:12:7-41
 38        android:label="@string/app_name"
-38-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:11:7-39
+38-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:11:7-39
 39        android:roundIcon="@mipmap/ic_launcher_round"
-39-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:13:7-52
+39-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:13:7-52
 40        android:theme="@style/AppTheme"
-40-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:15:7-38
+40-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:15:7-38
 41        android:usesCleartextTraffic="true" >
-41-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml:8:9-44
+41-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml:8:9-44
 42        <activity
-42-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml:11:9-111
+42-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml:11:9-111
 43            android:name="com.facebook.react.devsupport.DevSettingsActivity"
-43-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml:11:19-83
+43-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml:11:19-83
 44            android:exported="false" />
-44-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml:11:84-108
+44-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml:11:84-108
 45
 46        <meta-data
-46-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:17:7-19:64
+46-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:17:7-19:64
 47            android:name="com.google.android.geo.API_KEY"
-47-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:18:7-52
+47-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:18:7-52
 48            android:value="AIzaSyD0PYcb7nJ0uJb0TQ0HdXSrgxcPAB5O3Q0" />
-48-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:19:7-62
+48-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:19:7-62
 49
 50        <activity
-50-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:21:7-32:18
+50-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:21:7-32:18
 51            android:name="com.rutasapp.MainActivity"
-51-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:22:9-37
+51-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:22:9-37
 52            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-52-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:24:9-118
+52-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:24:9-118
 53            android:exported="true"
-53-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:27:9-32
+53-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:27:9-32
 54            android:label="@string/app_name"
-54-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:23:9-41
+54-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:23:9-41
 55            android:launchMode="singleTask"
-55-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:25:9-40
+55-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:25:9-40
 56            android:windowSoftInputMode="adjustResize" >
-56-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:26:9-51
+56-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:26:9-51
 57            <intent-filter>
-57-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:28:9-31:25
+57-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:28:9-31:25
 58                <action android:name="android.intent.action.MAIN" />
-58-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:29:13-65
-58-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:29:21-62
+58-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:29:13-65
+58-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:29:21-62
 59
 60                <category android:name="android.intent.category.LAUNCHER" />
-60-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:30:13-73
-60-->/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:30:23-70
+60-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:30:13-73
+60-->/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:30:23-70
 61            </intent-filter>
 62        </activity>
 63

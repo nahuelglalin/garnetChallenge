@@ -1,23 +1,24 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:1:1-34:12
-MERGED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:1:1-34:12
+ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:1:1-34:12
 MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/b2ec3232205e095c09543a31d56ae642/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/674677064ce29f9763dc420868735b8b/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/df731ac58fe0112a493f9730ba0671c1/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
-MERGED from [:react-native-community_geolocation] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/@react-native-community/geolocation/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-gesture-handler] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-maps] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
-MERGED from [:react-native-permissions] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-safe-area-context] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-screens] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-vector-icons] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_geolocation] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/@react-native-community/geolocation/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-maps] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-permissions] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-native:0.68.2] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/7d9d92dc8ec1ba2e45aff2ecbb549550/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/6ca4772dc16ee0aa26e0cc717aaeee42/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r250230] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/b26b48339e296557281f3d12b79a5a5f/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/f1204f1df4399a7f5bba753264d308f1/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/48655c27af2d8105f1ca68a72c6d2d94/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/955859de3514d49daf50e48783988c6b/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
@@ -80,54 +81,54 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nahuelgonzalolalin/.g
 MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/a87d76b15e37e5c6a02bfbce558e6a1f/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/53007099516bea6db8367ba9bce19768/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/248c0f564962b01f80874ef1b418707d/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml:2:1-13:12
-INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml:2:1-13:12
-INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml:2:1-13:12
 	package
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:2:3-25
-		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:2:3-25
-		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:1:1-34:12
-		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml:3:5-51
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:1:1-34:12
-		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:4:5-67
 MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/b2ec3232205e095c09543a31d56ae642/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
 MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/b2ec3232205e095c09543a31d56ae642/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
-MERGED from [:react-native-maps] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
-MERGED from [:react-native-maps] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
 MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/194947bb68aa47343e190d6eb8dd4f5e/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/194947bb68aa47343e190d6eb8dd4f5e/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
-ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:5:5-85
+ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:5:5-85
 	android:name
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:5:22-82
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:5:22-82
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:6:5-81
-MERGED from [:react-native-maps] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-81
-MERGED from [:react-native-maps] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-81
+ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:6:5-81
+MERGED from [:react-native-maps] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-81
 	android:name
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:6:22-78
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:6:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:7:5-79
+ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:7:22-76
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:7:22-76
 application
-ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:9:5-33:19
-MERGED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:9:5-33:19
-MERGED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:9:5-33:19
+ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:9:5-33:19
+MERGED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:9:5-33:19
+MERGED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:9:5-33:19
 MERGED from [com.facebook.react:react-native:0.68.2] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/7d9d92dc8ec1ba2e45aff2ecbb549550/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.react:react-native:0.68.2] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/7d9d92dc8ec1ba2e45aff2ecbb549550/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/d1cf27a24c7f89c3464d079b8866a14d/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
@@ -161,89 +162,91 @@ MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/nahuelgonzal
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/5c61d7afbc1bcd99cb491da6ba2ee6c1/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:11:7-39
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:11:7-39
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:11:7-39
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:11:7-39
 	tools:ignore
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml:10:9-48
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml:10:9-48
 	android:roundIcon
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:13:7-52
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:13:7-52
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:13:7-52
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:13:7-52
 	tools:targetApi
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml:9:9-29
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml:9:9-29
 	android:icon
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:12:7-41
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:12:7-41
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:12:7-41
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:12:7-41
 	android:allowBackup
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:14:7-34
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:14:7-34
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:14:7-34
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:14:7-34
 	android:theme
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:15:7-38
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:15:7-38
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:15:7-38
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:15:7-38
 	android:usesCleartextTraffic
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml:8:9-44
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml:8:9-44
 	android:name
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:10:7-38
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:10:7-38
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:10:7-38
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:10:7-38
 meta-data#com.google.android.geo.API_KEY
-ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:17:7-19:64
+ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:17:7-19:64
 	android:value
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:19:7-62
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:19:7-62
 	android:name
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:18:7-52
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:18:7-52
 activity#com.rutasapp.MainActivity
-ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:21:7-32:18
+ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:21:7-32:18
 	android:label
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:23:9-41
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:23:9-41
 	android:launchMode
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:25:9-40
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:25:9-40
 	android:windowSoftInputMode
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:26:9-51
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:26:9-51
 	android:exported
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:27:9-32
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:27:9-32
 	android:configChanges
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:24:9-118
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:24:9-118
 	android:name
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:22:9-37
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:22:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:28:9-31:25
+ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:28:9-31:25
 action#android.intent.action.MAIN
-ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:29:13-65
+ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:29:13-65
 	android:name
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:29:21-62
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:29:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:30:13-73
+ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:30:13-73
 	android:name
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml:30:23-70
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml:30:23-70
 uses-sdk
-INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml
 MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/b2ec3232205e095c09543a31d56ae642/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/b2ec3232205e095c09543a31d56ae642/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/674677064ce29f9763dc420868735b8b/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/674677064ce29f9763dc420868735b8b/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/df731ac58fe0112a493f9730ba0671c1/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/df731ac58fe0112a493f9730ba0671c1/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
-MERGED from [:react-native-community_geolocation] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/@react-native-community/geolocation/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_geolocation] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/@react-native-community/geolocation/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-gesture-handler] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-gesture-handler] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-maps] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-maps] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-permissions] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-permissions] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-safe-area-context] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-safe-area-context] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-screens] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-screens] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/@react-native-community/geolocation/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/@react-native-community/geolocation/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.68.2] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/7d9d92dc8ec1ba2e45aff2ecbb549550/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.68.2] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/7d9d92dc8ec1ba2e45aff2ecbb549550/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/6ca4772dc16ee0aa26e0cc717aaeee42/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/6ca4772dc16ee0aa26e0cc717aaeee42/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [org.webkit:android-jsc:r250230] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/b26b48339e296557281f3d12b79a5a5f/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r250230] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/b26b48339e296557281f3d12b79a5a5f/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-linear-gradient] /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/f1204f1df4399a7f5bba753264d308f1/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/f1204f1df4399a7f5bba753264d308f1/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/48655c27af2d8105f1ca68a72c6d2d94/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
@@ -368,24 +371,24 @@ MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/nahuelgonzalolalin/.gradle
 MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/53007099516bea6db8367ba9bce19768/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/248c0f564962b01f80874ef1b418707d/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/248c0f564962b01f80874ef1b418707d/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml:5:5-77
+ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml:5:22-75
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml:5:22-75
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml:11:9-111
+ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml:11:9-111
 	android:exported
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml:11:84-108
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml:11:84-108
 	android:name
-		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/debug/AndroidManifest.xml:11:19-83
+		ADDED from /Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/debug/AndroidManifest.xml:11:19-83
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/nahuelgonzalolalin/.gradle/caches/transforms-3/b2ec3232205e095c09543a31d56ae642/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
 	android:name

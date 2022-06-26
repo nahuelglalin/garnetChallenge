@@ -3,30 +3,30 @@ import React, { createContext, useEffect, useState } from "react";
 import { AppState, Platform } from "react-native";
 import { check, PERMISSIONS, PermissionStatus, request, openSettings } from "react-native-permissions";
 
-//1. interfaz que va a tener el estado de los permisos
+//Interfaz que va a tener el estado de los permisos
 export interface PermissionsState {
     locationStatus: PermissionStatus;
 } 
 
-//2. este es mi initial state
+//Initial state
 export const permissionInitialState: PermissionsState = {
     locationStatus: 'unavailable'
 }
 
-//3. lo que el context expone (es lo mismo que sea un type o una interface)
+//Lo que el context expone 
 type PermissionContextProps = {
     permissions: PermissionsState;
     askLocationPermission: () => void;
     checkLocationPermission: () => void;
 }
 
-//4. creo el context
+//Creacion del context
 export const PermissionsContext = createContext({} as PermissionContextProps);
 
-//5. creo el provider
+//Creacion del provider
 export const PermissionsProvider = ({ children }: any) => {
 
-    //inicio el state con el valor permissionInitialState
+    //Inicio el state con el valor de permissionInitialState
     const [permissions, setPermissions] = useState(permissionInitialState);
 
     //lee el estado de la app, si esta en 2do plano, si se minimiza, etc
@@ -47,11 +47,9 @@ export const PermissionsProvider = ({ children }: any) => {
         });
     }, [])
     
-    //funcion para chequear si tengo permisos para acceder a la 
-    //localizacion con gps 
+    //Chequear si tengo permisos para acceder a la localizacion con gps 
     const askLocationPermission = async () => {
-        //variable que guardará el status de los permisos 
-        //es decir, si tengo persmisos para usar el gps o no
+
         let permissionStatus: PermissionStatus;
 
         if (Platform.OS === 'ios') {
@@ -60,8 +58,8 @@ export const PermissionsProvider = ({ children }: any) => {
             permissionStatus = await request( PERMISSIONS.ANDROID.ACCESS_FINE_LOCATION );
         }
 
-        //si el permiso fue bloqueado
-        if (permissionStatus === 'blocked'){
+        //Si el permiso fue bloqueado, abro las settings del Sistema Operativo para cambiarlo
+        if (permissionStatus === 'blocked' || permissionStatus === 'denied'){
             openSettings();
         }
 
@@ -71,7 +69,7 @@ export const PermissionsProvider = ({ children }: any) => {
         });
     }
 
-    //se dispara cuando la persona regresa a nuestra app
+    //Se dispara cuando la persona regresa a nuestra app, chequea el estado de los permisos
     const checkLocationPermission = async () => {
         let permissionStatus: PermissionStatus;
 
@@ -90,9 +88,9 @@ export const PermissionsProvider = ({ children }: any) => {
     return (
         <PermissionsContext.Provider
             value={{
-                permissions: permissions,
-                askLocationPermission: askLocationPermission,
-                checkLocationPermission: checkLocationPermission
+                permissions,
+                askLocationPermission,
+                checkLocationPermission,
             }}
         >
             {children}

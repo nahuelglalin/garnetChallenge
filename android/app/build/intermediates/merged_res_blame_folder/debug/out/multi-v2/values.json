@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
+                {
+                    "source": "/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "156,262",
+                        "endColumns": "63,68",
+                        "endOffsets": "215,326"
+                    },
+                    "to": {
+                        "startLines": "669,670",
+                        "startColumns": "4,4",
+                        "startOffsets": "42624,42688",
+                        "endColumns": "63,68",
+                        "endOffsets": "42683,42752"
+                    }
+                },
                 {
                     "source": "/Users/nahuelgonzalolalin/.gradle/caches/transforms-3/930952dd781abe29ac754d98b6b40877/transformed/jetified-autofill-1.1.0/res/values/values.xml",
                     "from": {
@@ -243,6 +260,23 @@
                     }
                 },
                 {
+                    "source": "/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "45",
+                        "endOffsets": "57"
+                    },
+                    "to": {
+                        "startLines": "706",
+                        "startColumns": "4",
+                        "startOffsets": "45226",
+                        "endColumns": "45",
+                        "endOffsets": "45267"
+                    }
+                },
+                {
                     "source": "/Users/nahuelgonzalolalin/.gradle/caches/transforms-3/e34f23f166ba047a8cd5504be5cc44c2/transformed/transition-1.2.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
@@ -257,6 +291,25 @@
                         "startOffsets": "38624,38664,39098,39408,39463,40711,40765,40817,40866,40927",
                         "endColumns": "39,46,42,54,46,53,51,48,60,49",
                         "endOffsets": "38659,38706,39136,39458,39505,40760,40812,40861,40922,40972"
+                    }
+                },
+                {
+                    "source": "/Users/nahuelgonzalolalin/Documents/ReactNative/RutasApp/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "267"
+                    },
+                    "to": {
+                        "startLines": "854",
+                        "startColumns": "4",
+                        "startOffsets": "63082",
+                        "endLines": "857",
+                        "endColumns": "12",
+                        "endOffsets": "63295"
                     }
                 },
                 {
@@ -296,25 +349,6 @@
                     }
                 },
                 {
-                    "source": "/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "267"
-                    },
-                    "to": {
-                        "startLines": "854",
-                        "startColumns": "4",
-                        "startOffsets": "63082",
-                        "endLines": "857",
-                        "endColumns": "12",
-                        "endOffsets": "63295"
-                    }
-                },
-                {
                     "source": "/Users/nahuelgonzalolalin/.gradle/caches/transforms-3/974b7eb2566eaa5ff6cad3a657787855/transformed/lifecycle-viewmodel-2.3.1/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -348,23 +382,6 @@
                         "endLines": "7557",
                         "endColumns": "24",
                         "endOffsets": "464779"
-                    }
-                },
-                {
-                    "source": "/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "45",
-                        "endOffsets": "57"
-                    },
-                    "to": {
-                        "startLines": "706",
-                        "startColumns": "4",
-                        "startOffsets": "45226",
-                        "endColumns": "45",
-                        "endOffsets": "45267"
                     }
                 },
                 {
@@ -439,23 +456,6 @@
                         "startOffsets": "41159",
                         "endColumns": "42",
                         "endOffsets": "41197"
-                    }
-                },
-                {
-                    "source": "/Users/nahuelgonzalolalin/Documents/ReactNative/08-RutasApp/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
-                    "from": {
-                        "startLines": "6,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "156,262",
-                        "endColumns": "63,68",
-                        "endOffsets": "215,326"
-                    },
-                    "to": {
-                        "startLines": "669,670",
-                        "startColumns": "4,4",
-                        "startOffsets": "42624,42688",
-                        "endColumns": "63,68",
-                        "endOffsets": "42683,42752"
                     }
                 },
                 {

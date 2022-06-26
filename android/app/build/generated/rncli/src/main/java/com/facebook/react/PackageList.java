@@ -15,6 +15,8 @@ import java.util.ArrayList;
 import com.reactnativecommunity.geolocation.GeolocationPackage;
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.RNGestureHandlerPackage;
+// react-native-linear-gradient
+import com.BV.LinearGradient.LinearGradientPackage;
 // react-native-maps
 import com.airbnb.android.react.maps.MapsPackage;
 // react-native-permissions
@@ -72,6 +74,7 @@ public class PackageList {
       new MainReactPackage(mConfig),
       new GeolocationPackage(),
       new RNGestureHandlerPackage(),
+      new LinearGradientPackage(),
       new MapsPackage(),
       new RNPermissionsPackage(),
       new SafeAreaContextPackage(),
